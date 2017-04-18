@@ -1,9 +1,14 @@
-# api documentation for  [browser-sync-webpack-plugin (v1.1.4)](https://github.com/Va1/browser-sync-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-browser-sync-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-browser-sync-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-browser-sync-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-browser-sync-webpack-plugin)
+# npmdoc-browser-sync-webpack-plugin
+
+#### api documentation for  [browser-sync-webpack-plugin (v1.1.4)](https://github.com/Va1/browser-sync-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-browser-sync-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-browser-sync-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-browser-sync-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-browser-sync-webpack-plugin)
+
 #### BrowserSync and Webpack integration
 
-[![NPM](https://nodei.co/npm/browser-sync-webpack-plugin.png?downloads=true)](https://www.npmjs.com/package/browser-sync-webpack-plugin)
+[![NPM](https://nodei.co/npm/browser-sync-webpack-plugin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/browser-sync-webpack-plugin)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-browser-sync-webpack-plugin/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-browser-sync-webpack-plugin_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-browser-sync-webpack-plugin/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-browser-sync-webpack-plugin/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-browser-sync-webpack-plugin/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-browser-sync-webpack-plugin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-browser-sync-webpack-plugin/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-browser-sync-webpack-plugin/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Valentyn Barmashyn",
-        "email": "valpreacher@gmail.com"
+        "name": "Valentyn Barmashyn"
     },
     "bugs": {
         "url": "https://github.com/Va1/browser-sync-webpack-plugin/issues"
@@ -47,8 +51,7 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "val_",
-            "email": "valrpeacher@gmail.com"
+            "name": "val_"
         }
     ],
     "name": "browser-sync-webpack-plugin",
@@ -58,7 +61,6 @@
         "webpack": "^1 || ^2 || ^2.0.0-beta || ^2.1.0-beta || ^2.2.0-rc.0"
     },
     "private": false,
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Va1/browser-sync-webpack-plugin.git"
@@ -67,16 +69,6 @@
     "version": "1.1.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module browser-sync-webpack-plugin](#apidoc.module.browser-sync-webpack-plugin)
-
-
-
-# <a name="apidoc.module.browser-sync-webpack-plugin"></a>[module browser-sync-webpack-plugin](#apidoc.module.browser-sync-webpack-plugin)
 
 
 
