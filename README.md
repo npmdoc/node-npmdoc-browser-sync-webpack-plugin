@@ -1,6 +1,6 @@
 # npmdoc-browser-sync-webpack-plugin
 
-#### api documentation for  [browser-sync-webpack-plugin (v1.1.4)](https://github.com/Va1/browser-sync-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-browser-sync-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-browser-sync-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-browser-sync-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-browser-sync-webpack-plugin)
+#### basic api documentation for  [browser-sync-webpack-plugin (v1.1.4)](https://github.com/Va1/browser-sync-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-browser-sync-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-browser-sync-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-browser-sync-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-browser-sync-webpack-plugin)
 
 #### BrowserSync and Webpack integration
 
@@ -66,7 +66,8 @@
         "url": "git+https://github.com/Va1/browser-sync-webpack-plugin.git"
     },
     "scripts": {},
-    "version": "1.1.4"
+    "version": "1.1.4",
+    "bin": {}
 }
 ```
 
